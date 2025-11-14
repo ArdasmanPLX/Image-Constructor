@@ -1,0 +1,5 @@
+{
+  "name": "Playrix Image Сonstructor",
+  "description": "An interactive image editing application that allows users to combine images via drag-and-drop, with intelligent context-aware blending powered by AI.",
+  "requestFramePermissions": []
+}
